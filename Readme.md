@@ -1,1 +1,1 @@
-# Reproducible Research Week 2 Course Project 1
+# Personal-movement-analysis-using-an-activity-tracker
